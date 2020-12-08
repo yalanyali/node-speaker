@@ -25,7 +25,7 @@
 
 #define SAMPLE_SIZE			(2)
 #define FRAMES_PER_BUFFER	(256)
-#define FIFO_DURATION		(0.025f)
+#define FIFO_DURATION		(0.05f)
 
 
 typedef struct {
